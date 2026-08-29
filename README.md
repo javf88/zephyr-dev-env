@@ -3,6 +3,12 @@ zephyr-dev-env
 
 This is a repo to play around with zephyr in your local machine.
 
+# Initialitation of the repo
+```
+chmod +x init.sh
+```
+
+
 # Building the image
 ```
 docker build -t zephyr-dev-env:0.1 .

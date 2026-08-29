@@ -8,7 +8,6 @@ This is a repo to play around with zephyr in your local machine.
 chmod +x init.sh
 ```
 
-
 # Building the image
 ```
 docker build -t zephyr-dev-env:0.1 .
